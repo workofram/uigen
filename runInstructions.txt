@@ -1,0 +1,4 @@
+from uigen folder:
+- npm run setup -> To install dependencies and setup a local SQLite database
+
+- npm run dev -> to start the project
